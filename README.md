@@ -26,6 +26,17 @@ Power BI Desktop, DAX, Power Query
 ## How to open
 Download `dashboard/project1sales.pbix` and open it in Power BI Desktop.
 
-## Screenshots
-![Page 1](screenshots/page1_overall_performance.png)
-...
+
+## Dashboard Screenshots
+
+### Page 1: Overall Sales & Profit Performance
+![Page 1](screenshots/pg1.png)
+
+### Page 2: Category & Product Performance
+![Page 2](screenshots/pg2.png)
+
+### Page 3: Order Status & Revenue Loss
+![Page 3](screenshots/pg3.png)
+
+### Page 4: Payment, Fulfilment & Geographic Performance
+![Page 4](screenshots/p4.png)
