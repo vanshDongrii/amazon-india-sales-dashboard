@@ -39,4 +39,4 @@ Download `dashboard/project1sales.pbix` and open it in Power BI Desktop.
 ![Page 3](screenshots/pg3.png)
 
 ### Page 4: Payment, Fulfilment & Geographic Performance
-![Page 4](screenshots/p4.png)
+![Page 4](screenshots/pg4.png)
